@@ -1,5 +1,5 @@
 # OFFDP – Observatoire Français de la Fiabilisation des Données Personnelles  
-**Data Policy Lab : veille, preuve, recours**
+# Data Policy Lab : veille, preuve, recours
 
 ---
 
