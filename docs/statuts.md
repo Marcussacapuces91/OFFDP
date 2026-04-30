@@ -29,9 +29,9 @@ La durée de l’association est illimitée.
 
 L’association se compose de :
 
-- Membres actifs : personnes physiques ou morales qui participent régulièrement aux activités et acquittent la cotisation fixée par l’assemblée générale.
-- Membres bienfaiteurs : personnes physiques ou morales qui apportent un soutien financier ou matériel.
-- Membres d’honneur : désignés par l’assemblée générale pour services rendus.
+- **Membres actifs** : personnes physiques ou morales qui participent régulièrement aux activités et acquittent la cotisation fixée par l’assemblée générale.
+- **Membres bienfaiteurs** : personnes physiques ou morales qui apportent un soutien financier ou matériel.
+- **Membres d’honneur** : désignés par l’assemblée générale pour services rendus.
 
 ## Article 6 – Admission
 
