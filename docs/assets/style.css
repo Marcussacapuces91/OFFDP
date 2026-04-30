@@ -9,6 +9,24 @@ body {
 }
 
 /* HEADER */
+.header-logo img.logo-img {
+  height: 60px;
+  width: auto;
+  margin-right: 1rem;
+}
+
+@media (min-width: 700px) {
+  .header-container {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .header-logo img.logo-img {
+    height: 70px;
+  }
+}
+
 .site-header {
   border-bottom: 1px solid #ddd;
   padding: 1rem 0;
