@@ -33,22 +33,31 @@ OFFDP accompagne les organisations pour anticiper ces risques et renforcer la co
 
 ### 3. Accompagnement en cas d’incident  
 
-- Conseils sur la communication aux personnes concernées et aux autorités.
-- Orientation sur les démarches correctives proportionnées.
-- Préparation à une éventuelle action contentieuse (civil ou pénal), en lien avec les juristes de l’association.
+- Conseils sur la communication aux personnes concernées et aux autorités.  
+- Orientation sur les démarches correctives proportionnées.  
+- Préparation à une éventuelle action contentieuse (civil ou pénal), en lien avec les juristes de l’association.  
 
 ---
 
-## Pourquoi travailler avec OFFDP ?
+## Clause de responsabilité  
+OFFDP agit en partenaire critique et constructif. Toutefois, l’association se réserve **le droit d’ester en justice contre les professionnels ou organisations qu’elle a conseillés**, si ceux-ci n’ont pas appliqué les recommandations formulées et se trouvent responsables d’une fuite de données personnelles entraînant un préjudice pour les citoyens.  
 
-- **Indépendance citoyenne** : une approche critique et constructive.
-- **Expertise juridique et stratégique** : appui sur le droit européen et français.
-- **Vision systémique** : au-delà du cas isolé, prise en compte des impacts collectifs.
-- **Confiance** : renforcer la crédibilité auprès des clients, partenaires et régulateurs.
+Cette réserve garantit la cohérence entre notre mission de conseil et notre rôle de défense des droits fondamentaux.
+
+---
+
+## Pourquoi travailler avec OFFDP ?  
+
+- **Indépendance citoyenne** : une approche critique et constructive.  
+- **Expertise juridique et stratégique** : appui sur le droit européen et français.  
+- **Vision systémique** : au-delà du cas isolé, prise en compte des impacts collectifs.  
+- **Confiance** : renforcer la crédibilité auprès des clients, partenaires et régulateurs.  
 
 ---
 
 ## Signature  
+
 **OFFDP – Observatoire Français de la Fiabilisation des Données Personnelles**  
 **Data Policy Lab : veille, preuve, recours**  
+
 Un partenaire citoyen pour promouvoir des pratiques exigeantes et réduire les risques juridiques liés aux données personnelles.
