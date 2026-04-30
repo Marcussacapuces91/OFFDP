@@ -59,7 +59,7 @@ a:hover {
 }
 
 .header-logo img.logo-img {
-  height: 60px;
+  height: 80px;
   width: auto;
   margin-right: 1rem;
 }
@@ -97,10 +97,6 @@ a:hover {
     justify-content: space-between;
     align-items: center;
     text-align: left;
-  }
-
-  .header-logo img.logo-img {
-    height: 70px;
   }
 
   .header-nav {
