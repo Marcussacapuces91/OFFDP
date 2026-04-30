@@ -3,6 +3,8 @@
 
 Ce dépôt contient le site institutionnel de l’OFFDP ainsi que les documents de cadrage conceptuel et stratégique liés à la création de l’association.
 
+Le site est **majoritairement en français**. Une ou plusieurs pages **bilingues (FR/EN)** pourront être ajoutées pour présenter l’association dans un cadre européen, notamment en lien avec une fédération de rattachement.
+
 L’OFFDP a pour vocation d’analyser, documenter et objectiver les risques liés aux usages des données personnelles, de produire des travaux de preuve et de veille, et de soutenir des actions de recours ou d’intérêt collectif lorsque les droits fondamentaux sont affectés.
 
 ---
@@ -27,7 +29,7 @@ Les décisions suivantes structurent le cadre applicable :
 - **C‑667/21** : la réparation doit être intégrale mais strictement compensatoire.
 - **C‑456/22** : pas de barème automatique ; appréciation au cas par cas.
 
-Ces arrêts confirment :  
+Ces arrêts confirment :
 👉 pas de barémisation mécanique,  
 👉 pas de valeur abstraite de la donnée,  
 👉 nécessité d’éléments concrets d’impact ou de risque.
@@ -144,19 +146,20 @@ Pistes compatibles avec le droit :
 
 Le site public est situé dans le dossier `/docs`, conformément à la configuration GitHub Pages.
 
-/ ├── README.md
-  ├── LICENSE 
-  ├── .gitignore 
-  └── docs/ 
-    ├── _config.yml 
-    ├── index.md 
-    ├── about.md 
-    ├── missions.md 
-    ├── travaux.md 
-    ├── contact.md 
-    └── assets/ 
-      └── style.css
-
+```
+  / ├── README.md
+    ├── LICENSE 
+    ├── .gitignore 
+    └── docs/ 
+      ├── _config.yml 
+      ├── index.md 
+      ├── about.md 
+      ├── missions.md 
+      ├── travaux.md 
+      ├── contact.md 
+      └── assets/ 
+        └── style.css
+```
 
 ---
 
