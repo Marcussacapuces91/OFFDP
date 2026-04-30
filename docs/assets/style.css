@@ -17,12 +17,40 @@ body {
   margin: auto;
   padding: 2rem;
   color: var(--offdp-grey-dark);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+
+  /* Pile de polices système (sans traceurs) */
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif,
+    "Apple Color Emoji",
+    "Segoe UI Emoji",
+    "Segoe UI Symbol";
+
   background-color: #fff;
+  line-height: 1.55;
 }
 
-h1, h2 {
+h1, h2, h3, h4, h5, h6 {
+  font-family:
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
   font-weight: 600;
+  margin-top: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  margin-bottom: 1.2rem;
 }
 
 /* Liens */
@@ -45,8 +73,8 @@ a:hover {
 ---------------------------------------------------------- */
 .site-header {
   border-bottom: 1px solid var(--offdp-grey-light);
-  padding: 1rem 0;
-  margin-bottom: 2rem;
+  padding: 1.5rem 0;
+  margin-bottom: 3rem;
 }
 
 .header-container {
@@ -59,9 +87,9 @@ a:hover {
 }
 
 .header-logo img.logo-img {
-  height: 80px;
+  height: 60px;
   width: auto;
-  margin-right: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 .header-title a {
@@ -70,23 +98,24 @@ a:hover {
 }
 
 .header-title strong {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   color: var(--offdp-blue);
 }
 
 .header-title .subtitle {
   display: block;
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   color: #555;
   margin-top: 0.2rem;
 }
 
 .header-nav {
-  margin-top: 0.8rem;
+  margin-top: 1rem;
 }
 
 .header-nav a {
-  margin: 0 0.5rem;
+  margin: 0 0.6rem;
+  padding: 0.25rem 0.4rem;
   font-weight: 500;
 }
 
@@ -99,20 +128,33 @@ a:hover {
     text-align: left;
   }
 
+  .header-logo img.logo-img {
+    height: 70px;
+    margin-bottom: 0;
+  }
+
   .header-nav {
     margin-top: 0;
   }
 }
 
 /* ----------------------------------------------------------
+   MAIN CONTENT
+---------------------------------------------------------- */
+main {
+  margin-bottom: 4rem;
+}
+
+/* ----------------------------------------------------------
    FOOTER
 ---------------------------------------------------------- */
 .site-footer {
-  margin-top: 4rem;
-  padding: 2rem 0;
+  margin-top: 5rem;
+  padding: 2.5rem 0;
   border-top: 1px solid var(--offdp-grey-light);
   font-size: 0.9rem;
   color: var(--offdp-grey-dark);
+  background-color: #fafafa;
 }
 
 .site-footer a {
@@ -132,7 +174,7 @@ a:hover {
 
 .footer-nav a {
   color: inherit;
-  margin: 0 0.3rem;
+  margin: 0 0.4rem;
 }
 
 .footer-nav a:hover {
