@@ -1,43 +1,166 @@
 # OFFDP — Observatoire Français de la Fiabilisation des Données Personnelles
-# Data policy lab — veille, preuve, recours
+## Data Policy Lab — veille, preuve, recours
 
-## Prompt de la réflexion intiale autour de la création de cette association
+Ce dépôt contient le site institutionnel de l’OFFDP ainsi que les documents de cadrage conceptuel et stratégique liés à la création de l’association.
 
-Tu es un assistant juridique et stratégique spécialisé en droit européen/français de la protection des données (RGPD) et en stratégies contentieuses/associatives.
-Objectif : produire une synthèse conclusive fidèle à un raisonnement précis sur la “valorisation” d’une fuite de données et la création d’une association de citoyens capable d’ester en justice et de financer du lobbying.
+L’OFFDP a pour vocation d’analyser, documenter et objectiver les risques liés aux usages des données personnelles, de produire des travaux de preuve et de veille, et de soutenir des actions de recours ou d’intérêt collectif lorsque les droits fondamentaux sont affectés.
 
-Contexte à intégrer : 
-- On a discuté de la valorisation des données personnelles et de la valeur d’une fuite pour un citoyen.
-- On a distingué la sanction administrative (CNIL) de l’indemnisation civile (article 82 RGPD).
-- On a évoqué la CJUE : pas de barème automatique, nécessité d’un dommage réel et d’un lien de causalité ; pas de seuil de minimis ; la crainte fondée d’un usage abusif futur peut constituer un dommage moral ; la réparation est compensatoire (non punitive).
-- On a évoqué l’usage des statistiques nationales (banques, police, etc.) pour objectiver le risque et le coût social, mais pas pour imposer un barème d’indemnisation.
-- On a discuté des cibles : responsable de traitement (détenteur) vs État (argument “régalien”), parallèle environnemental et limites de transposition.
-- On a abouti à une stratégie : contentieux sur fuites formelles + lobbying sur le risque systémique ; inclusion dans les statuts.
-- Problème : financement insuffisant par cotisations ; pistes légales : préjudice propre de l’association, frais irrépétibles/dépens, mécénat/dons fléchés, stratégie contentieuse sélective ; lignes rouges : captation d’indemnités individuelles, “prix de la donnée”, mandat flou.
+---
 
-Tâche : 
-Produis une “Synthèse conclusive” (pas une discussion) qui conserve le contenu utile, élimine les digressions, et conserve explicitement les fausses bonnes idées à éviter.
+# 1. Valorisation d’une fuite de données : cadre et limites
 
-Contraintes fortes :
-1) Ne pas proposer de “valeur à l’octet” ou “prix par champ” comme méthode indemnitaire ; expliquer pourquoi.
-2) Expliquer que les statistiques sont recevables comme éléments d’objectivation du risque/préjudice moral mais non comme barème mécanique.
-3) Distinguer strictement CNIL (sanction) vs juge (réparation).
-4) Clarifier la capacité d’action d’une association :
-   - action d’intérêt collectif (cessation/injonction) potentiellement au-delà des adhérents,
-   - indemnisation : seulement pour personnes déterminées et/ou avec mandat/cadre légal ; pas “tous les citoyens indistinctement”,
-   - levier : préjudice propre de l’association.
-5) Donner une conclusion sur “contre qui agir” (responsable de traitement en priorité ; État surtout axe de lobbying / cas exceptionnels).
-6) Proposer ensuite (courte section) la “Suite” : 
-   - axes de réflexion pour statuts (objets, modes d’action, gouvernance, financement, politique contentieuse),
-   - construction d’un réseau de parties prenantes (catégories + rôle).
+Une fuite de données personnelles peut ouvrir droit à réparation **uniquement** sur le fondement de l’article 82 RGPD, sous réserve :
+- d’un dommage réel (matériel ou moral),
+- d’un lien de causalité,
+- d’un manquement imputable au responsable de traitement.
 
-Format attendu (Markdown) :
-- Sections numérotées courtes (1 à 7) reprenant les points : valorisation, CJUE, CNIL vs juge, stats, cible, association/périmètre, modèle économique & lignes rouges.
-- Puis une section : “Suite : statuts & réseau de parties prenantes” avec sous-listes pratiques.
-- Style : précis, factuel, non militant, orienté action, sans digressions.
+Aucune approche de type **“prix de la donnée”, “valeur à l’octet” ou barème par champ”** n’est juridiquement recevable.  
+La réparation est **compensatoire**, non punitive.
 
-Option qualité (si tu peux) :
-- Inclure 3 à 6 références d’arrêts CJUE par leur numéro d’affaire (sans recopier les jugements), et les principes qu’ils dégagent.
-- Ne pas inventer de montants chiffrés d’indemnisation si non sourcés.
+---
 
-Produis maintenant la synthèse conformément à ces consignes.
+# 2. Apports de la CJUE (principes utiles)
+
+Les décisions suivantes structurent le cadre applicable :
+- **C‑300/21** : pas de seuil de minimis ; un dommage moral peut résulter d’une crainte fondée d’usage abusif futur.
+- **C‑340/21** : la seule violation du RGPD ne suffit pas ; nécessité d’un dommage démontré.
+- **C‑667/21** : la réparation doit être intégrale mais strictement compensatoire.
+- **C‑456/22** : pas de barème automatique ; appréciation au cas par cas.
+
+Ces arrêts confirment :  
+👉 pas de barémisation mécanique,  
+👉 pas de valeur abstraite de la donnée,  
+👉 nécessité d’éléments concrets d’impact ou de risque.
+
+---
+
+# 3. CNIL (sanction) vs juge civil (réparation)
+
+Deux voies distinctes :
+
+### CNIL  
+- Sanction administrative, finalité dissuasive.  
+- Pas d’indemnisation des personnes concernées.  
+- Pas de lien automatique avec une action civile.
+
+### Juge civil (article 82 RGPD)  
+- Objectif : **réparer** un dommage individuel.  
+- Appréciation au cas par cas.  
+- Charge de la preuve : dommage + causalité.
+
+---
+
+# 4. Usage des statistiques : recevable mais non barémisant
+
+Les statistiques nationales (fraude bancaire, usurpation d’identité, cybercriminalité, etc.) peuvent être utilisées pour :
+- **objectiver un risque**,  
+- **étayer une crainte raisonnable**,  
+- **contextualiser un préjudice moral**.
+
+Elles **ne peuvent pas** servir de barème automatique d’indemnisation.
+
+---
+
+# 5. Cible des actions : priorités
+
+### Responsable de traitement (prioritaire)
+- Obligation de sécurité (art. 32 RGPD).  
+- Responsabilité directe en cas de fuite.  
+- Cible naturelle des actions civiles.
+
+### État / autorités publiques
+- Pertinent surtout pour :  
+  - actions structurelles,  
+  - contentieux d’intérêt collectif,  
+  - lobbying sur le risque systémique.  
+- Actions indemnitaires individuelles : cas exceptionnels.
+
+---
+
+# 6. Capacité d’action d’une association
+
+Une association peut :
+
+### ✔ Action d’intérêt collectif  
+- Demander cessation, injonction, conformité.  
+- Potentiellement au-delà de ses seuls adhérents.
+
+### ✔ Préjudice propre  
+- L’association peut agir pour son **dommage direct** (atteinte à son objet, ressources mobilisées, etc.).
+
+### ✔ Indemnisation individuelle  
+- Possible uniquement pour :  
+  - des personnes déterminées,  
+  - avec mandat explicite,  
+  - ou dans un cadre légal spécifique.  
+- **Interdit** : représenter “tous les citoyens indistinctement”.
+
+### ❌ Lignes rouges  
+- Pas de captation d’indemnités individuelles.  
+- Pas de “prix de la donnée”.  
+- Pas de mandat flou ou global.
+
+---
+
+# 7. Modèle économique : faisabilité et limites
+
+Les cotisations ne suffisent pas.  
+Pistes compatibles avec le droit :
+
+- **Préjudice propre de l’association** (levier contentieux).  
+- **Frais irrépétibles / dépens** (selon décision du juge).  
+- **Mécénat / dons fléchés** (transparents et finalisés).  
+- **Stratégie contentieuse sélective** (cas exemplaires, fuites formelles).
+
+---
+
+# Suite : statuts & réseau de parties prenantes
+
+## A. Axes pour les statuts
+- Objet : veille, documentation, analyse, preuve, recours.  
+- Modes d’action : contentieux, publications, audits citoyens, interpellation institutionnelle.  
+- Gouvernance : collégiale, transparente, rotation des responsabilités.  
+- Politique contentieuse : critères de sélection, absence de barémisation, respect des lignes rouges.  
+- Financement : dons, mécénat, subventions, préjudice propre, pas de captation d’indemnités.
+
+## B. Réseau de parties prenantes
+- **Juristes / avocats** : stratégie contentieuse, doctrine.  
+- **Chercheurs / universitaires** : analyses, méthodologie, objectivation du risque.  
+- **Techniciens / ingénieurs** : audits, preuves techniques, analyses de fuites.  
+- **Associations partenaires** : libertés numériques, consommateurs, droits fondamentaux.  
+- **Journalistes / médias spécialisés** : diffusion, pédagogie.  
+- **Citoyens / lanceurs d’alerte** : signalements, documentation.
+
+---
+
+# Licence
+
+- **Code du site** : MIT  
+- **Textes et contenus** : CC0 1.0 (domaine public)
+
+---
+
+# Structure du dépôt
+
+Le site public est situé dans le dossier `/docs`, conformément à la configuration GitHub Pages.
+
+/ ├── README.md
+  ├── LICENSE 
+  ├── .gitignore 
+  └── docs/ 
+    ├── _config.yml 
+    ├── index.md 
+    ├── about.md 
+    ├── missions.md 
+    ├── travaux.md 
+    ├── contact.md 
+    └── assets/ 
+      └── style.css
+
+
+---
+
+# Contact
+
+Pour toute information :  
+contact@offdp.fr
