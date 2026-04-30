@@ -1,4 +1,7 @@
-# Statuts de l’association OFFDP – Data Policy Lab : veille, preuve, recours
+# Statuts de l’association
+
+## OFFDP – Observatoire Français de la Fiabilisation des Données Personnelles
+## Data Policy Lab : veille, preuve, recours
 
 ## Article 1 – Dénomination
 
