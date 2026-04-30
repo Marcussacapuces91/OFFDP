@@ -3,7 +3,7 @@
 
 ---
 
-## Pour les citoyens  
+## [Pour les citoyens](citoyens.md)
 **Vos données personnelles sont des informations qui vous concernent directement.**  
 OFFDP existe pour défendre vos droits, documenter les risques liés aux fuites et soutenir des démarches de recours lorsque c’est nécessaire. Notre objectif : que la confiance numérique repose sur des garanties réelles, pas seulement sur des promesses.
 
