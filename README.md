@@ -24,10 +24,10 @@ La réparation est **compensatoire**, non punitive.
 # 2. Apports de la CJUE (principes utiles)
 
 Les décisions suivantes structurent le cadre applicable :
-- **C‑300/21** : pas de seuil de minimis ; un dommage moral peut résulter d’une crainte fondée d’usage abusif futur.
-- **C‑340/21** : la seule violation du RGPD ne suffit pas ; nécessité d’un dommage démontré.
-- **C‑667/21** : la réparation doit être intégrale mais strictement compensatoire.
-- **C‑456/22** : pas de barème automatique ; appréciation au cas par cas.
+- **[C‑300/21](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:62021CN0300&qid=1777577746817)** : pas de seuil de minimis ; un dommage moral peut résulter d’une crainte fondée d’usage abusif futur.
+- **[C‑340/21](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:62021CN0340&qid=1777577660084)** : la seule violation du RGPD ne suffit pas ; nécessité d’un dommage démontré.
+- **[C‑667/21](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:62021CN0667&qid=1777577542308)** : la réparation doit être intégrale mais strictement compensatoire.
+- **[C‑456/22](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:62022CN0456&qid=1777577608614)** : pas de barème automatique ; appréciation au cas par cas.
 
 Ces arrêts confirment :
 👉 pas de barémisation mécanique,  
