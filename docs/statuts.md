@@ -21,7 +21,7 @@ Elle agit notamment par :
 - la sensibilisation et la formation du public,
 - la participation au débat public et aux consultations institutionnelles,
 - la mise en œuvre, lorsque nécessaire, d’actions contentieuses proportionnées dans le respect du droit,
-- la coopération avec d’autres associations citoyennes poursuivant les mêmes objectifs, y compris la création ou la participation à une fédération européenne dédiée à la protection et à la fiabilisation des données personnelles.
+- la coopération avec d’autres associations citoyennes poursuivant les mêmes objectifs, y compris la création ou la participation à une **fédération européenne** dédiée à la protection et à la fiabilisation des données personnelles.
 
 ## Article 3 – Siège social
 
