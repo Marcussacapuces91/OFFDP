@@ -2,7 +2,10 @@
 
 ## Article 1 – Dénomination
 
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre : OFFDP – Data Policy Lab : veille, preuve, recours.
+Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre :
+
+**OFFDP - Observatoire Français de la Fiabilisation des Données Personnelles**<br>
+**Data Policy Lab — veille, preuve, recours.**
 
 ## Article 2 – Objet
 
