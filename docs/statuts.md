@@ -13,12 +13,15 @@ Il est fondé entre les adhérents aux présents statuts une association régie 
 ## Article 2 – Objet
 
 L’association a pour objet de contribuer à l’amélioration de la protection des données personnelles, à la prévention des risques systémiques, à la transparence en cas d’incident et à l’effectivité des voies de recours.
+
 Elle agit notamment par :
 
-- la production d’analyses et de travaux de recherche,
+- la production d’analyses, d’études et de travaux de recherche,
+- la promotion de pratiques exigeantes en matière de sécurité et de fiabilité des données,
 - la sensibilisation et la formation du public,
 - la participation au débat public et aux consultations institutionnelles,
-- la mise en œuvre, lorsque nécessaire, d’actions contentieuses proportionnées dans le respect du droit.
+- la mise en œuvre, lorsque nécessaire, d’actions contentieuses proportionnées dans le respect du droit,
+- la coopération avec d’autres associations citoyennes poursuivant les mêmes objectifs, y compris la création ou la participation à une fédération européenne dédiée à la protection et à la fiabilisation des données personnelles.
 
 ## Article 3 – Siège social
 
