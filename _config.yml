@@ -1,3 +1,4 @@
+title: OFFDP
+description: Observatoire Français de la Fiabilisation des Données Personnelles
 theme: jekyll-theme-primer
-title: Mon site
-description: Un site Jekyll minimal
+markdown: kramdown
