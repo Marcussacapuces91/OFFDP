@@ -137,8 +137,7 @@ Pistes compatibles avec le droit :
 
 # Licence
 
-- **Code du site** : MIT  
-- **Textes et contenus** : CC0 1.0 (domaine public)
+- **Code du site**, **Textes et contenus** : Creative Commons Attribution-ShareAlike 4.0 International
 
 ---
 
