@@ -1,7 +1,7 @@
 # Règlement intérieur de l’association
 
-## OFFDP – Observatoire Français de la Fiabilisation des Données Personnelles
-## Data Policy Lab : veille, preuve, recours
+**OFFDP – Observatoire Français de la Fiabilisation des Données Personnelles**<br>
+**Data Policy Lab : veille, preuve, recours**
 
 ## Article 1 – Admission des membres
 
