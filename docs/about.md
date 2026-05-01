@@ -1,18 +1,11 @@
 # À propos  
 
-**OFFDP – Observatoire Français de la Fiabilisation des Données Personnelles**  
-**Data Policy Lab : veille, preuve, recours**
-
----
-
 ## Notre identité  
 
 OFFDP est une association citoyenne indépendante, régie par la loi de 1901.  
 Sa vocation est de renforcer la protection des données personnelles en France et en Europe, en articulant [trois axes fondamentaux : **Veille, Preuve, Recours**](missions.md).  
 
 Nous nous définissons comme un **laboratoire citoyen** : un lieu où se croisent expertise juridique, recherche académique, savoir-faire technique et engagement social.
-
----
 
 ## Notre mission  
 
@@ -25,8 +18,6 @@ Nous travaillons à :
 
 Notre objectif : transformer la connaissance en action, et l’action en protection réelle pour les personnes concernées.
 
----
-
 ## Nos valeurs  
 
 - **Indépendance** : OFFDP agit sans influence commerciale ou institutionnelle.  
@@ -34,8 +25,6 @@ Notre objectif : transformer la connaissance en action, et l’action en protect
 - **Rigueur** : chaque analyse repose sur des preuves et une méthodologie claire.  
 - **Engagement citoyen** : nous plaçons les droits fondamentaux au centre de nos actions.  
 - **Dimension européenne** : nous favorisons la coopération transnationale et la création d’une fédération citoyenne pour harmoniser les pratiques.
-
----
 
 ## Notre approche  
 OFFDP n’est pas un simple observateur :  
@@ -46,12 +35,3 @@ OFFDP n’est pas un simple observateur :
 - Nous **agissons** en justice lorsque les droits fondamentaux sont compromis.  
 
 Cette approche intégrée fait d’OFFDP un acteur unique, à la fois critique et constructif, au service de la confiance numérique.
-
----
-
-## Signature  
-
-**OFFDP – Observatoire Français de la Fiabilisation des Données Personnelles**  
-**Data Policy Lab : veille, preuve, recours**  
-
-Un acteur citoyen pour renforcer la responsabilité numérique et garantir une protection effective des données personnelles.
