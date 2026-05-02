@@ -1,8 +1,3 @@
-# OFFDP – Observatoire Français de la Fiabilisation des Données Personnelles  
-# Data Policy Lab : veille, preuve, recours
-
----
-
 ## [Pour les citoyens](citoyens.md)
 **Vos données personnelles sont des informations qui vous concernent directement.**  
 OFFDP existe pour défendre vos droits, documenter les risques liés aux fuites et soutenir des démarches de recours lorsque c’est nécessaire. Notre objectif : que la confiance numérique repose sur des garanties réelles, pas seulement sur des promesses.
@@ -30,12 +25,3 @@ OFFDP développe un réseau de compétences en droit, statistiques, cybersécuri
 ## [Pour les mécènes et soutiens](mecenat.md)
 **Soutenir OFFDP, c’est investir dans la confiance numérique.**  
 Votre appui permet de financer des travaux de recherche, des campagnes de sensibilisation et des actions contentieuses ciblées. Nous garantissons une utilisation transparente et fléchée des ressources, au service exclusif de l’objet social.
-
----
-
-## Signature  
-
-**OFFDP – Observatoire Français de la Fiabilisation des Données Personnelles**  
-**Data Policy Lab : veille, preuve, recours**  
-
-Un acteur citoyen pour renforcer la responsabilité numérique et rendre la protection des données personnelles plus effective.
