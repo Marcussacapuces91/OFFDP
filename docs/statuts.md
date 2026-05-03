@@ -1,31 +1,25 @@
 # Statuts de l’association
 
-**OFFDP – Observatoire Français de la Fiabilisation des Données Personnelles**<br>
-**Data Policy Lab : veille, preuve, recours**
-
 ## Article 1 – Dénomination
 
 Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre :
 
-**OFFDP - Observatoire Français de la Fiabilisation des Données Personnelles**<br>
-**Data Policy Lab — veille, preuve, recours.**
+**OFFDP - Observatoire Français de la Fiabilisation des Données Personnelles** (ci-après « l'Association »).
 
 ## Article 2 – Objet
 
-L’association a pour objet de contribuer à l’amélioration de la protection des données personnelles, à la prévention des risques systémiques, à la transparence en cas d’incident et à l’effectivité des voies de recours.
+L’Association a pour objet :
 
-Elle agit notamment par :
-
-- la production d’analyses, d’études et de travaux de recherche,
-- la promotion de pratiques exigeantes en matière de sécurité et de fiabilité des données,
-- la sensibilisation et la formation du public,
-- la participation au débat public et aux consultations institutionnelles,
-- la mise en œuvre, lorsque nécessaire, d’actions contentieuses proportionnées dans le respect du droit,
-- la coopération avec d’autres associations citoyennes poursuivant les mêmes objectifs, y compris la création ou la participation à une **fédération européenne** dédiée à la protection et à la fiabilisation des données personnelles.
+- la veille, l’analyse et la publication d’études sur la fiabilisation et la sécurité des données personnelles ;
+- la promotion de bonnes pratiques techniques et organisationnelles en matière de protection des données ;
+- l’accompagnement et la formation des personnes concernées ;
+- la participation au débat public et aux consultations institutionnelles ;
+- la conduite d’actions juridiques proportionnées, conformes au droit, pour la cessation de traitements illicites, la mise en conformité et la réparation des préjudices, dans les conditions prévues aux présents statuts ;
+- le plaidoyer et le lobbying pour l’amélioration des cadres normatifs et des moyens de contrôle.
 
 ## Article 3 – Siège social
 
-Le siège social est fixé à [adresse complète]. Il pourra être transféré par simple décision du conseil d’administration, ratifiée par l’assemblée générale.
+Le siège social est fixé à [adresse complète]. Il peut être transféré par décision du conseil d’administration, ratifiée par la prochaine assemblée générale
 
 ## Article 4 – Durée
 
@@ -33,56 +27,64 @@ La durée de l’association est illimitée.
 
 ## Article 5 – Membres
 
-L’association se compose de :
+L’Association comprend :
 
-- **Membres actifs** : personnes physiques ou morales qui participent régulièrement aux activités et acquittent la cotisation fixée par l’assemblée générale.
-- **Membres bienfaiteurs** : personnes physiques ou morales qui apportent un soutien financier ou matériel.
-- **Membres d’honneur** : désignés par l’assemblée générale pour services rendus.
+- **Membres actifs** : personnes physiques ou morales participant régulièrement aux activités et acquittant la cotisation ;
+- **Membres bienfaiteurs** : personnes physiques ou morales apportant un soutien financier ou matériel 
+- **Membres d’honneur** : personnes distinguées par l’assemblée générale pour services rendus.
 
 ## Article 6 – Admission
 
-Toute personne physique ou morale peut demander son admission. Le conseil d’administration statue sur les demandes.
+Toute personne souhaitant adhérer adresse une demande écrite. Le conseil d’administration statue sur l’admission. L’adhésion implique l’acceptation des statuts et du règlement intérieur.
 
 ## Article 7 – Radiation
 
-La qualité de membre se perd par :
-
-- démission,
-- décès ou dissolution,
-- non-paiement de la cotisation,
-- radiation prononcée par le conseil d’administration pour motif grave, après avoir entendu l’intéressé.
+La qualité de membre se perd par : démission, décès, dissolution, non‑paiement de la cotisation, ou radiation pour motif grave prononcée par le conseil d’administration après avoir entendu l’intéressé.
 
 ## Article 8 – Ressources
 
-Les ressources de l’association comprennent :
+Les ressources de l’Association comprennent : cotisations, dons et mécénats fléchés, subventions, produits des activités, remboursements de frais, dépens et frais irrépétibles éventuellement alloués par décision judiciaire.
 
-- les cotisations,
-- les dons et mécénats fléchés,
-- les subventions publiques ou privées,
-- les produits des activités,
-- les dépens et frais irrépétibles éventuellement obtenus en justice.
-
-Il est interdit de capter ou redistribuer les indemnités individuelles des adhérents.
+**Interdiction** : l’Association ne peut capter, retenir ou redistribuer des indemnités individuelles versées à des victimes ; toute somme destinée à indemniser une victime est reversée intégralement à celle‑ci.
 
 ## Article 9 – Conseil d’administration
 
-L’association est dirigée par un conseil d’administration composé de [nombre] membres élus pour [durée] par l’assemblée générale.
-Le conseil choisit parmi ses membres un bureau comprenant : un président, un secrétaire et un trésorier.
+L’Association est dirigée par un conseil d’administration composé de [nombre minimum] à [nombre maximum] membres élus pour une durée d'un an par l’assemblée générale. 
+Le conseil élit en son sein un bureau composé au minimum d’un président, d’un secrétaire et d’un trésorier. Les modalités de renouvellement, quorum et majorité sont précisées dans le règlement intérieur.
 
 ## Article 10 – Assemblée générale
 
-L’assemblée générale ordinaire comprend tous les membres à jour de leur cotisation. Elle se réunit au moins une fois par an.
-Elle approuve les rapports, vote le budget, fixe le montant des cotisations et élit les membres du conseil d’administration.
-Les décisions sont prises à la majorité des membres présents ou représentés.
+L’Assemblée Générale (AG) ordinaire comprend tous les membres à jour de cotisation. Elle se réunit au moins une fois par an pour approuver les rapports, voter le budget, fixer la cotisation et élire les administrateurs.
+Les modalités de convocation, quorum et vote sont fixées par le règlement intérieur.
 
 ## Article 11 – Assemblée générale extraordinaire
 
-Elle peut être convoquée pour modifier les statuts ou décider la dissolution. Les décisions sont prises à la majorité des deux tiers des membres présents ou représentés.
+L’Assemblée Générale Extraordinaire (AGE) statue sur les modifications statutaires et la dissolution.
+Les décisions sont prises à la majorité des deux tiers des membres présents ou représentés, sauf disposition contraire prévue au règlement intérieur.
 
 ## Article 12 – Règlement intérieur
 
-Un règlement intérieur peut être établi par le conseil d’administration et approuvé par l’assemblée générale pour préciser les modalités pratiques de fonctionnement.
+Un règlement intérieur, adopté par le conseil d’administration et approuvé par l’assemblée générale, précise les modalités d’application des présents statuts, notamment la politique contentieuse, la grille de sélection des dossiers, la gestion des dons fléchés et la politique de conflits d’intérêts.
 
-## Article 13 – Dissolution
+## Article 13 — Responsabilité et conformité RGPD
 
-En cas de dissolution, l’assemblée générale extraordinaire désigne un ou plusieurs liquidateurs. L’actif est dévolu conformément à l’article 9 de la loi du 1er juillet 1901.
+L’Association s’engage à respecter la réglementation applicable en matière de protection des données personnelles. Elle désigne un référent protection des données (DPO ou équivalent) et adopte des règles internes de conservation, d’accès et de sécurité des données.
+
+## Article 14 — Conflits d’intérêts
+
+Tout administrateur doit déclarer tout lien direct ou indirect avec une partie liée et s’abstenir de participer aux délibérations et votes concernés. Les modalités de déclaration et d’abstention sont précisées dans le règlement intérieur.
+
+## Article 15 — Politique contentieuse et mandats
+
+L’Association n’engage une action en réparation au nom d’une personne physique qu’après obtention d’un mandat écrit et individuel. Pour les actions d’intérêt collectif, l’Association agit dans les limites de son objet statutaire et selon la politique contentieuse adoptée par le conseil d’administration.
+Les critères de sélection des dossiers sont publiés annuellement.
+
+## Article 16 — Transparence financière
+
+L’Association publie annuellement un rapport financier détaillant recettes, dépenses, dons fléchés et financements liés aux actions contentieuses.
+Les dons supérieurs à un seuil fixé par le règlement intérieur font l’objet d’une décision motivée du conseil et d’une publication.
+
+## Article 17 — Dissolution
+
+La dissolution est prononcée par l’Assemblée Générale Extraordinaire (AGE).
+En cas de dissolution, l’actif net est dévolu à une ou plusieurs associations poursuivant des objectifs similaires, désignées par l’Assemblée Générale Extraordinaire.
